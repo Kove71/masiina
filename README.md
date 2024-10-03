@@ -16,4 +16,4 @@ Download the project, go to directory `masiina-mk-ultra/` and run this command:
 
 `mvn clean package && java -jar target/masiina-mk-ultra-0.0.1-SNAPSHOT.jar `
 
-Close by ctrl+c, just closing the window will leave the **MASIINA ENGINE** running and using resources
+Close by ctrl+c, just closing the window will leave the **MASIINA ENGINE** running and using resources, unless it has already crashed.
